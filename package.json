@@ -1,0 +1,16 @@
+{
+  "name": "012_alternatingsums",
+  "version": "1.0.0",
+  "description": "Several people are standing in a row and need to be divided into two teams.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
